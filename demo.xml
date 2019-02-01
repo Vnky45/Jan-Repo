@@ -1,0 +1,10 @@
+<suite name="reg">
+
+<test name="m1">
+<classes>
+	<class name="com.tng.ohrm.OhrmAddEmpTest1"/>
+	
+
+</classes>
+</test>
+</suite>
